@@ -1,0 +1,24 @@
+conexion repositorio local
+git
+
+username: "abraham"
+email: "galdonabraham53@gmail.com"
+
+
+------------------------------------------------------
+conexion en remoto al servidor de repositorios
+remoto
+GitHub
+
+username: abraham53-svg
+password AgL123@??
+
+
+---------------------------------
+
+conexion a github para el proyecto Mytest desde consola:
+
+
+comando:
+git remote add origin https://github.com/abraham53-svg/Mytest.git
+
